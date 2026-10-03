@@ -15,15 +15,7 @@
 <br><br>
 
 This account is now just a placeholder for my old username.<br>
-All my projects, updates and new work live on my main profile, **Odysseas MK**.
-
-<br>
-
-| | |
-|:--|:--|
-| 🧑‍💻 **GitHub** | [github.com/odisseasmk](https://github.com/odisseasmk) |
-| 🌐 **Website** | [odisseasmk.com](https://odisseasmk.com) |
-| ☕ **Buy me a coffee** | [buymeacoffee.com/odisseasmk](https://buymeacoffee.com/odisseasmk) |
+All my projects, updates and new work live on my main profile.
 
 <br>
 
